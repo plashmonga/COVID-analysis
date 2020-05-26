@@ -1,4 +1,4 @@
-# COVID-analysis
+# COVID-19 Analysis
 Visualized and forecasted the number of cases &amp; Recovery Rate
 
 * Data Source https://github.com/CSSEGISandData/COVID-19
